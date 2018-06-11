@@ -3,7 +3,7 @@
  Faz conexao
  Faz leitura
  Exibe dados em tela caracter (ZIM)
-  11.06.2018  18:10 github
+  11.06.2018  18:45 github
 """
 import curses
 import psycopg2
